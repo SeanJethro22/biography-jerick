@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Biography Jerick Jay S. Verbal</title>
+    </head>
+    <body style="font-family:Agency FB;">
+        <center>
+            <table width="700px" border="1">
+                <tr>
+                    <td rowspan="2">
+                        <img src="Jerick.jpg" alt="My Photo" width="100%">
+                    </td>
+                    <th width="400px" height="40px" bgcolor="PaleGreen">My Biography</th>
+                </tr>
+                <tr>
+                    <td bgcolor="LightYellow">
+                        <ul>
+                            <li>Name: Jerick Jay S. Verbal</li>
+                            <li>Birthdate: 03 May 1994</li>
+                            <li>Birthplace: Koronadal City, South Cotabato</li>
+                            <li>Address: Blk12 Lot19 Valeen Vista Residences <br>
+                                Brgy. San Felipe, Tantangan, South Cotabato</li>
+                            <li>Age: 28 y/o</li>
+                            <li>Sex: Male</li>
+                            <li>Status: Single</li>
+                            <li>Religion: Roman Catholic</li>
+                            <li>Height: 167 cm</li>
+                            <li>Weight: 171 pounds</li>
+                            <li>Course: Bachelor of Science in Information Technology</li>
+                            <li>Year Level: 2nd</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <th colspan="2" height="30px" bgcolor="PaleGreen">Family Background</th>
+                    <tr>
+                        <td colspan="2" bgcolor="LightYellow">
+                            <ul>
+                                <li>Father's Name: Ricky Cataluña Verbal</li>
+                                <li>Occupation: Deceased</li>
+                                <li>Mother's Name: Annie Javing Subere</li>
+                                <li>Occupation: Maintenance - KCC Mall of Marbel</li>
+                                <li>Sibling's Name: Riann Joy Subere Verbal <br>
+                                                    Aubrey Kaith Subere Verbal</li>
+                            </ul>
+                        </td>
+                    </tr>       
+                </tr>
+                <tr>
+                    <th colspan="2" height="30px" bgcolor="PaleGreen">About Me</th>
+                    <tr>
+                        <td colspan="2" bgcolor="LightYellow">
+                            <p>Hi! my name is Jerick Jay Subere Verbal 
+                            a Program Assistant at Provincial Disaster Risk Reduction and Management Office <br>
+                            Province of South Cotabato</p>
+                        </td>
+                    </tr>
+                </tr>
+                <tr>
+                    <th colspan="2" height="30px" bgcolor="PaleGreen">Social Media</th>
+                </tr>
+                <tr>
+                    <td colspan="2" bgcolor="LightYellow">
+                        <p>Check me out on:</p>
+                        <ul>
+                            <li><a href="https://www.facebook.com/grim.stroke.79">Facebook</a></li>
+                        </ul>
+                    </td>
+                </tr>
+
+            </table>
+        </center>
+       
+    </body>
+</html>
